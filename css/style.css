@@ -1,0 +1,19 @@
+body {
+	color:#ffff00;
+	font-family:Arial, sans-serif;
+	margin: ;
+	padding:20px;
+	background-color:#000000;
+}
+header{
+	background-color:#808080;
+	color: white;
+	padding:10px 0;
+	text-align: center;
+}
+header h1{
+	margin: 0;
+}
+nav a:hover{
+	text-decoration: undeline;
+}
